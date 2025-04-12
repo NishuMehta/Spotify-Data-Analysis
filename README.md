@@ -1,5 +1,7 @@
 # Spotify-Analysis
 
+![](/logo2.png)
+
 Dataset : [Spotify Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
 #### BASIC EDA 
